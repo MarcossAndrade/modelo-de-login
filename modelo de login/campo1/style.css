@@ -1,0 +1,110 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+.center img {
+    width: 100%;
+    height: 100%;
+}
+
+.center h1 {
+    position: absolute;
+    font-family: Arial, sans-serif;
+    top: 30%;
+    right: 40%;
+    text-align: center;
+    color: white;
+    font-size: 45px;
+}
+
+.center h2 {
+    position: absolute;
+    font-family: Arial, sans-serif;
+    top: 39%;
+    right: 28%;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+.center h3 {
+    position: absolute;
+    font-family: Arial, sans-serif;
+    top: 50%;
+    right: 42%;
+    text-align: center;
+    color: white;
+    font-size: 22px;
+}
+
+
+img.center1 {
+    width: 9%;
+    height: 21%;
+}
+
+.center1 {
+    position: absolute;
+    top: 6%;
+    right: 45%;
+}
+
+.dados {
+    position: absolute;
+    border: none;
+    width: 650px;
+    height: 35px;
+    border-radius: 7px 7px 7px 7px;
+    top: 56%;
+    right: 26%;
+}
+
+.dados1 {
+    position: absolute;
+    border: none;
+    width: 650px;
+    height: 35px;
+    border-radius: 7px 7px 7px 7px;
+    top: 63%;
+    right: 26%;
+}
+
+.marcar {
+    position: absolute;
+    top: 72%;
+    right: 70%;
+}
+
+label {
+    font-family: Arial, sans-serif;
+    position: absolute;
+    top: 72%;
+    right: 33%;
+    color: white;
+    font-size: 15px;
+}
+
+p {
+    text-align: center;
+}
+
+button:hover {
+    background-color: blue;
+}
+
+
+.acesso {
+    position: absolute;
+    width: 650px;
+    height: 42px;
+    border-radius: 10px 10px 10px 10px;
+    top: 86%;
+    right: 26%;
+    background-color: rgb(58, 58, 248);
+    border-color: rgb(58, 58, 248);
+    color: white;
+    font-size: 17px;
+}
